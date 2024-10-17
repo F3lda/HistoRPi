@@ -15,5 +15,12 @@ available FM and DAB broadcasts to any audio output device connected to the Rasp
 - DAB and FM broadcasts can be received by connecting an RTL-SDR dongle.
 - Start playing and Listen!
 
-## Video
-[https://www.youtube.com/watch?v=wEk9IPGQwg4](https://www.youtube.com/watch?v=wEk9IPGQwg4&list=PLyx6PxqS5pZ5c0ZQkjKCWe2286lkeXFXk)
+## Result
+Video: [https://www.youtube.com/watch?v=wEk9IPGQwg4](https://www.youtube.com/watch?v=wEk9IPGQwg4&list=PLyx6PxqS5pZ5c0ZQkjKCWe2286lkeXFXk)
+
+![HistoRPi](./docs/imgs/HistoRPi.png "HistoRPi")
+
+![HistoRPi UI](./docs/imgs/HistoRPiUI.png "HistoRPi UI")
+
+## Original repository
+[https://github.com/F3lda/BP-HistoR](https://github.com/F3lda/BP-HistoR)
